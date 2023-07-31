@@ -1,0 +1,7 @@
+{
+    "env":{
+        "DB_USER": "ankitashukla533",
+        "DB_PASSWORD":"XswWkRG2fTUAYMZk",
+        "JWT_KEY": "supersecret_dont_share"        
+    }
+}
